@@ -1,0 +1,60 @@
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.csproj.AssemblyReference.cache
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.AssemblyInfoInputs.cache
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.AssemblyInfo.cs
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.csproj.CoreCompileInputs.cache
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\appsettings.Development.json
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\appsettings.json
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\CedMT Test SignalR.exe
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\CedMT Test SignalR.deps.json
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\CedMT Test SignalR.runtimeconfig.json
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\CedMT Test SignalR.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\CedMT Test SignalR.pdb
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\System.Text.Json.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\System.Threading.Channels.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\staticwebassets.development.json
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\staticwebassets\msbuild.CedMT Test SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\staticwebassets\msbuild.build.CedMT Test SignalR.props
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CedMT Test SignalR.props
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CedMT Test SignalR.props
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\scopedcss\bundle\CedMT Test SignalR.styles.css
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Te.3A9D8D18.Up2Date
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\refint\CedMT Test SignalR.dll
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.pdb
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\CedMT Test SignalR.genruntimeconfig.cache
+D:\Github\Cedeira\Cedmt\CedMT-Test-SignalR\CedMT Test SignalR\CedMT Test SignalR\obj\Debug\net8.0\ref\CedMT Test SignalR.dll
